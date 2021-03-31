@@ -1,0 +1,21 @@
+{
+    "name": "engel/fizzbuzz",
+    "type": "project",
+    "require": {
+        "symfony/dependency-injection": "^5.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "FizzBuzz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "engel",
+            "email": "engeljavierpinto@gmail.com"
+        }
+    ]
+}
