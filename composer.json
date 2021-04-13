@@ -1,5 +1,6 @@
 {
     "name": "engel/fizzbuzz",
+    "description": "Kata fizzbuzz",
     "type": "project",
     "require": {
         "symfony/dependency-injection": "^5.2"
